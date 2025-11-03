@@ -1,0 +1,40 @@
+let ~s improve the website .. now after the quem somos we need to have an area 
+title : Associação de Hotelaria e Turismo de Cabo Delgado - CDTUR
+
+No dia um de Fevereiro de dois mil sete, nesta cidade de Pemba e nas instalações do Beach Hotel, sita na Avenida Marginal, perante mim Janilo Momade Bay, técnico superior dos registos e notariado N1 e conservador A, com funções notariais nesta conservatória, compareceram como outorgantes:
+Primeiro - Narciso Gabriel, casado, natural de Maputo, portador do Bilhete de Identidade n.° 2646436, emitido pelo Arquivo de Identificação Civil de Maputo, aos vinte e nove de Março do ano dois mil e residente em Pemba.
+Segundo - Gulamo Aly Cassamo Abobakar, solteiro, natural de Palma, portador do Bilhete de Identidade n.° 020006676B, emitido pelo Arquivo de Identificação Civil de Nampula, aos dezoito de Setembro do ano dois mil um e residente em Pemba.
+Terceiro - Emídio José Silva Baptista, casado, natural de Glória - Aveiro, portador do Passaporte Português n.° 77330, emitido pelo Governo Civil de Faro e residente em Grã-Bretanha.
+Quarto - Humberto Filipe Palma da Silva Vazeré, casado, natural da Ilha de Moçambique, portador do Bilhete de Identidade n.° 1008337, emitido pelo Arquivo de Identificação Civil de Nampula, aos vinte e dois de Março do ano de dois mil e um e residente em Pemba.
+Quinto - Assubugy Meagy, casado, natural de Montepuez, portador do Bilhete de Identidade n.° 020003965Z, emitido pelo Arquivo de Identificação Civil de Nampula, aos dezassete de Maio de dois mil e um e residente em Pemba.
+Sexto - Fernando Manuel Fontinha Moreira, casado, natural de Portugal, portador do DIRE n.º 12239B, emitido pela Identificação Civil de Pemba, aos três de Outubro de dois mil e três e residente em Pemba.
+Sétimo - Momade Rafique Abdul Latifo, casado, natural de Moçambique, portador do DIRE n.° 06549, emitido pela Identificação Civil de Pemba, aos vinte e oito de Fevereiro de dois mil e um e residente em Pemba.
+Oitavo - Zeinabo Amade Ibraimo Ustá, casada, natural de Homoine, portadora do Bilhete de Identidade n.º 110578545L, emitido pelo Arquivo de Identificação Civil de Maputo, aos dezasseis de Julho de dois mil e quatro e residente em Pemba.
+Nono - Renato Chamberlain de Barros Carrilho, casado, natural de Pemba, portador do Bilhete de Identidade n.º 22391, emitido pelo Arquivo de Identificação Civil de Pemba, aos quatro de Julho de mil novecentos e noventa e residente em Pemba.
+Décimo - Maria de Lurde Amado Valente Fonseca, casada, natural de Montepuez, portadora do Bilhete de Identidade n.º 276964, emitido pelo Arquivo de Identificação Civil de Pemba, aos treze de Maio de mil novecentos e noventa e oito e residente em Pemba.
+Décimo Primeiro - Genevieve de Graaff, solteira, natural da África do Sul, portadora do DIRE n.º 12233B, emitido pelo Arquivo de Identificação Civil de Pemba, aos vinte e dois de Setembro de dois mil e três e residente em Pemba.
+Verifiquei a identidades dos outorgantes em face de exibição dos seus documentos de identificação acima mencionados.
+E por eles foi dito que tendo lhes sido reconhecido a personalidade jurídica por despacho de vinte e seis de Dezembro de dois mil e seis de sua excelência o Governador da Província de Cabo Delgado, constituem entre si uma associação denominada Associação de Hotelaria e Turismo de Cabo Delgado - CDTUR, com sede em Pemba, podendo estabelecer delegações e quaisquer outras formas de representação social onde e quando julgar conveniente, que se regerá pelo documento complementar elaborado nos termos do número dois do artigo setenta e oito do Código do Notariado que fica a fazer parte integrante desta escritura e que os outorgantes declaram ter lido, tendo perfeito conhecimento do seu conteúdo, pelo que é dispensada a sua leitura.
+Assim o disseram e outorgaram.
+Instrue este acto os estatutos da associação, certidão negativa passada nesta conservatória em sete de Dezembro de dois mil seis e despacho da sua excelência o Governador da Província de vinte e seis de Dezembro de dois mil seis, que ficam arquivados no maço de documentos do corrente ano.
+Li e expliquei o conteúdo e efeitos legais desta escritura em voz alta na presença simultânea dos outorgantes com a advertência especial da obrigatoriedade de ser requerido o registo deste acto na conservatória competente no prazo de noventa dias contados a partir da data da publicação da presente escritura após o que vão assinar comigo seguidamente:
+Assinados: Ilegíveis.
+
+also add a section called "Regulamento de Jóias e Quotas" and the content for this part is on the images attached after the joias e quotas we will have the images displayed .. and the images will be in the following order 
+ folhetos section 
+ - has to images namely ( and these are the folder assets/gallery/folhetos/images... 
+    * cdtur.png
+    * femotur.png
+
+and then next we will have the assembleia_eleicoes (assets/gallery/assembleia_eleicoes/ folder and the section is called Assembleia das Eleições da CDTUR
+ and the images are in this order 
+  * image_01.jpg till the last image in the folder 
+
+then tomada de posse (another images section ) 
+ - with the images in the ((assets/gallery/tomada_posse/) it only has two images image_01.jpg and image_02.jpg
+
+and them we will have membros simpatizantes e serviços
+first in a section called : Membros simpatizantes e serviços 
+ (in the (assets\gallery\grupo_membros_servicos)) images till image_21.jpg
+
+then sort of a subsection will the hotels slides the first in the 

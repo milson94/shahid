@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contactos - CDTUR</title>
+
+    <!-- Google Fonts & Font Awesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Your Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="main-nav">
+            <a href="index.html" class="logo">
+                <img src="assets/gallery/logo.png" alt="CDTUR Logo" class="logo-img">
+            </a>
+            <ul class="nav-links">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre Nós</a></li>
+                <li><a href="contacto.html">Contactos</a></li>
+            </ul>
+             <button id="theme-toggle" class="theme-toggle-btn">
+                <i class="fas fa-sun"></i>
+                <i class="fas fa-moon"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-title-section">
+             <h1>Contacte-nos</h1>
+             <p>Estamos aqui para ajudar. Envie-nos uma mensagem!</p>
+        </section>
+
+        <section class="content-section contact-layout">
+            <div class="contact-form-container">
+                <h2>Envie uma Mensagem</h2>
+                <form action="#" method="POST" class="contact-form">
+                    <div class="form-group">
+                        <label for="name">Nome</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Mensagem</label>
+                        <textarea id="message" name="message" rows="6" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+            </div>
+            <div class="contact-details">
+                <h2>Nossas Informações</h2>
+                <p><strong>Endereço:</strong><br>
+                Av. da Marginal, nº 5470, AVANI Pemba Beach Hotel & Spa, Loja nº 3<br>
+                Pemba, Cabo Delgado<br>
+                Moçambique</p>
+
+                <p><strong>Telefone:</strong><br>
+                +258 84 000 0000</p>
+
+                <p><strong>Email:</strong><br>
+                cdtur.moz@gmail.com</p>
+
+                <div class="map-container">
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31674.88127339791!2d40.66578505!3d-12.969193149999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x188e763155555555%3A0x82a5a3a2e3791168!2sWimbe%20Beach!5e0!3m2!1sen!2sus!4v1670000000000!5m2!1sen!2sus" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>© 2025 CDTUR - Associação de Hotelaria e Turismo de Cabo Delgado. Todos os direitos reservados.</p>
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Instagram</a>
+        </div>
+    </footer>
+
+    <!-- Your Custom JS -->
+    <script src="js/main.js"></script>
+</body>
+</html>
